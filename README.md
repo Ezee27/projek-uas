@@ -4,6 +4,9 @@ Program ini adalah aplikasi sederhana untuk mengelola data mahasiswa menggunakan
 
 ---
 
+![Gambar WhatsApp 2025-01-03 pukul 02 40 17_541fdf1e](https://github.com/user-attachments/assets/c84b1d08-f2c1-4de7-adfc-e41fc129b276)
+
+
 ## Table of Contents
 - [Fitur Utama](#fitur-utama)
 - [Struktur Program](#struktur-program)
