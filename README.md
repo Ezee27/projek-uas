@@ -95,9 +95,7 @@ Program ini dibagi menjadi empat file utama untuk mendukung modularitas:
 3. Keluar
 Pilih menu:
 ```
-
 ![Screenshot (111)](https://github.com/user-attachments/assets/5b475a21-6f4b-46ec-bd17-e058f3ef5d1a)
-
 
 ### Tambah Data Mahasiswa
 ```plaintext
@@ -107,6 +105,8 @@ Masukkan umur: 21
 Masukkan nilai: 85
 Data mahasiswa berhasil ditambahkan!
 ```
+![Screenshot (112)](https://github.com/user-attachments/assets/38437a09-8fc6-4d7c-9545-634e32fced4c)
+
 
 ### Tampilkan Data Mahasiswa
 ```plaintext
@@ -116,6 +116,8 @@ Nama                 NIM             Umur       Nilai
 John Doe             123456          21         85.0      
 ------------------------------------------------------------
 ```
+![image](https://github.com/user-attachments/assets/68ea9896-bf83-4d8e-9e94-33c2890f9710)
+
 
 ### Validasi Input
 - Jika NIM tidak valid:
