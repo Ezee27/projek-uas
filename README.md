@@ -46,12 +46,18 @@ Program ini dibagi menjadi empat file utama untuk mendukung modularitas:
      - `tambah_mahasiswa`: Menambahkan data mahasiswa ke dalam daftar.
      - `dapatkan_semua_data`: Mengambil semua data mahasiswa.
 
+    ![DATA](https://github.com/user-attachments/assets/a4416e4b-e4a1-48a2-adcf-b33d62b47f93)
+
+
 2. **`view.py`**
    - Berinteraksi dengan pengguna (input/output) melalui class `ViewMahasiswa`.
    - Fungsi utama:
      - `tampilkan_menu`: Menampilkan menu utama.
      - `minta_input`: Meminta input dari pengguna.
      - `tampilkan_data`: Menampilkan data mahasiswa dalam format tabel.
+
+   ![VIEW](https://github.com/user-attachments/assets/8ce84fef-7899-4fab-8947-672645266ce1)
+
 
 3. **`process.py`**
    - Memproses dan memvalidasi input dengan class `ProcessMahasiswa`.
@@ -60,9 +66,14 @@ Program ini dibagi menjadi empat file utama untuk mendukung modularitas:
      - `validasi_umur`: Memvalidasi umur (harus angka positif).
      - `validasi_nilai`: Memvalidasi nilai (harus dalam rentang 0-100).
 
+![PROCESS](https://github.com/user-attachments/assets/70ce34c7-d290-428d-b38d-9d3349e00024)
+
+
 4. **`main.py`**
    - Entry point untuk menjalankan program.
    - Mengintegrasikan semua modul (`data.py`, `view.py`, `process.py`).
+
+![MAIN](https://github.com/user-attachments/assets/9ee00033-441b-4059-a565-a66581be45c7)
 
 ---
 
