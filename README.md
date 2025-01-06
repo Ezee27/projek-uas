@@ -96,6 +96,9 @@ Program ini dibagi menjadi empat file utama untuk mendukung modularitas:
 Pilih menu:
 ```
 
+![Screenshot (111)](https://github.com/user-attachments/assets/5b475a21-6f4b-46ec-bd17-e058f3ef5d1a)
+
+
 ### Tambah Data Mahasiswa
 ```plaintext
 Masukkan nama: John Doe
