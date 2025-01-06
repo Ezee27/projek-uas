@@ -135,8 +135,3 @@ John Doe             123456          21         85.0
 - **Python**: Bahasa pemrograman utama.
 
 ---
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan Anda.
-
