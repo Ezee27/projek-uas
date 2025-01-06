@@ -13,7 +13,6 @@ Program ini adalah project sederhana untuk mengelola data mahasiswa menggunakan 
 - [Cara Menjalankan](#cara-menjalankan)
 - [Contoh Output](#contoh-output)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Lisensi](#lisensi)
 
 ---
 
