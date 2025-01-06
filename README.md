@@ -1,6 +1,6 @@
 # Program Data Mahasiswa
 
-Program ini adalah aplikasi sederhana untuk mengelola data mahasiswa menggunakan **konsep modular** dan **OOP (Object-Oriented Programming)**. Program ini memungkinkan pengguna untuk menambahkan data mahasiswa, menampilkan data mahasiswa dalam bentuk tabel, serta memvalidasi input untuk memastikan data yang dimasukkan benar.
+Program ini adalah project sederhana untuk mengelola data mahasiswa menggunakan **konsep modular** dan **OOP (Object-Oriented Programming)**. Program ini memungkinkan pengguna untuk menambahkan data mahasiswa, menampilkan data mahasiswa dalam bentuk tabel, serta memvalidasi input untuk memastikan data yang dimasukkan benar.
 
 ---
 
